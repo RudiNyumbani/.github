@@ -28,7 +28,7 @@ We welcome contributions from the community. To contribute:
 All projects under **RudiNyumbani** are licensed under the MIT License. See the LICENSE file for more information.
 
 ## 📫 Contact
-For inquiries, collaboration, or support, please reach out via [GitHub Issues](https://github.com/RudiNyumbani) or email us at **rudinyumbanike@gmail.com** or **rudinyumbanike@yahoo.com**.
+For inquiries, collaboration, or support, please reach out via [GitHub Issues](https://github.com/RudiNyumbani/findme/issues) or email us at **rudinyumbanike@gmail.com** or **rudinyumbanike@yahoo.com**.
 
 ---
 
